@@ -44,7 +44,7 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
-import FLOAT64_NUM_HIGH_WORD_SIGNIFICAND_BITS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-num-high-word-significand-bits@esm/index.mjs';
+import FLOAT64_NUM_HIGH_WORD_SIGNIFICAND_BITS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-num-high-word-significand-bits@v0.1.0-esm/index.mjs';
 ```
 
 #### FLOAT64_NUM_HIGH_WORD_SIGNIFICAND_BITS
@@ -76,7 +76,7 @@ var bool = ( FLOAT64_NUM_HIGH_WORD_SIGNIFICAND_BITS === 20 );
 <body>
 <script type="module">
 
-import FLOAT64_NUM_HIGH_WORD_SIGNIFICAND_BITS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-num-high-word-significand-bits@esm/index.mjs';
+import FLOAT64_NUM_HIGH_WORD_SIGNIFICAND_BITS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-num-high-word-significand-bits@v0.1.0-esm/index.mjs';
 
 console.log( FLOAT64_NUM_HIGH_WORD_SIGNIFICAND_BITS );
 // => 20
