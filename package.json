@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/constants-float64-num-high-word-significand-bits",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Number of significand bits in the high word of a double-precision floating-point number.",
   "license": "Apache-2.0",
   "author": {
